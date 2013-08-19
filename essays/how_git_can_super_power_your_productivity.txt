@@ -4,7 +4,15 @@ Even if you are a not a technical person, you may have heard about the awesomene
 
 Just what is it that is so fantastic about Git? The first thing is that it is the perfect combination of distributed and centralized services. You have your own copy of whatever you are working on, and you can make your own changes whenever you want, super fast, and then easily merge them with the changes of other people. This allows both individuality and communal effort, for a combination of total awesomeness.
 
-One of the great things about git is that you can easily track just about anything. In addition to code, I track my personal yoga practice, language learning, computer language learning, and writing progress ().
+One of the great things about git is that you can easily track just about anything. In addition to code, I've tracked my personal mediation and yoga practice, language learning, computer language learning, and progress writing it all down. Git allows me to easily track things using nothing more complicated than a text editor and the command line. 
+
+The very basic usage is this:
+
+"git init" <- create git storage in the current directory
+
+"git add ." <- add whatever is in the current directory to your git
+
+"git commit -m 'i am starting to track this essay'"
 
 
 
