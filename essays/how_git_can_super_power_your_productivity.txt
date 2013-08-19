@@ -1,0 +1,10 @@
+How git massively increases my productivity (and how it can do the same for you)
+
+Even if you are a not a technical person, you may have heard about the awesomeness that is Git. Github, Gittip, and other services are leveraging the near ubiquity of git among technical people. YCombinator and other accelerators are currently baking up new approaches to word processors that will make the awesomeness of git even more approachable for non-technical people. 
+
+Just what is it that is so fantastic about Git? The first thing is that it is the perfect combination of distributed and centralized services. You have your own copy of whatever you are working on, and you can make your own changes whenever you want, super fast, and then easily merge them with the changes of other people. This allows both individuality and communal effort, for a combination of total awesomeness.
+
+One of the great things about git is that you can easily track just about anything. In addition to code, I track my personal yoga practice, language learning, computer language learning, and writing progress ().
+
+
+
