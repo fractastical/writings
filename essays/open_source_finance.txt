@@ -1,0 +1,20 @@
+TITLE: Open Source Finance
+OUTLET: Shareable?
+
+London was recently abuzz with the Wired Money conference, which included both critics and participants in the mainstream system of finance. While one participant talked about how to build high frequency trading bots that analyzed twitter feeds and traded on that basis, another participant talked about how a world in which financial trades were dominated by super-fast robots had many non-optimal features. 
+
+The same was true about Bitcoin, in which investors flocking to make a few quick pennies (or, in this case, pence), thought that Bitcoin might give them yet another way to make money fast. Social entrepreneurs, by which I mean anyone looking to do something positive with their money, were notably absent. Despite dissenters, the anthem of "more money faster" seemed to have won the hour, as men in suits rushed to fund hackers in their basements who promised "algorithms for cash."
+
+However, in a land dominated by men in suits and robots, there was an interesting cluster of community starting to form around alternative systems. Highlighted by Rachael Botsman, who noted the rise of reputation currency, numerous other people talked about the weaknesses in the current banking system [Ouishare | Does money have a future? : http://ouishare.net/2013/07/does-money-have-a-future/].
+
+Generally speaking, these were people who understood real human needs arising from real businesses. So often those who needed money to start or grow new ventures just couldn't get it fast enough. Banks were slow and had limited resources to do due diligence. New startups Zopa, Wonga, , were rushing to fill the gap, via crowd-financing of various forms. 
+
+This presented an interesting opportunity. Very often, despite contractual agreements, it seemed that lending could done by individuals who cared about the outcome, rather than a big bank who cared only about the bottom line. Perhaps unsurprisingly, these ventures, whether short-term lending, longer term, or focused on a specific market, all seem to produce significantly better outcomes. 
+
+Is it possible they produce better outcomes because the people giving the money care about the outcome? Our personal connections allow us to empower each other to create better, to have accountability that is personal rather than merely financial? These trends are the ones that are most worth noting, the vibrancy of "virtual" community that can replace the rotting superstructure of existing banks which have stopped caring about the most important part of their business, their customers. 
+
+In the high world of finance, little robots ran around making money making quick trades on the basis of twitter feeds, people attempted to mass generate digital money to fill virtual bank accounts, but very few people were directly engaging with real problems had by real people. 
+
+When innovation was discussed, it often went back to the ATM. The ability to get cash without going into your bank. However, it seemed that only a few people still realized the full potential of peer to peer solutions that take out the middle man. More innovation is coming.  It is "open source," in the sense of providing direct links between people empowered by greater openness and transparency. 
+
+It is something that is coming whether or not the men in suits are ready for it.
