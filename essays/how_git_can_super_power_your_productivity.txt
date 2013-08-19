@@ -1,18 +1,32 @@
 How git massively increases my productivity (and how it can do the same for you)
 
-Even if you are a not a technical person, you may have heard about the awesomeness that is Git. Github, Gittip, and other services are leveraging the near ubiquity of git among technical people. YCombinator and other accelerators are currently baking up new approaches to word processors that will make the awesomeness of git even more approachable for non-technical people. 
+Even if you are a not a technical person, you may have heard about the awesomeness that is Git. Github, Gittip, and other services are leveraging the near ubiquity of git among technical people and bringing it to a larger audience. In fact, at this very moment, YCombinator and other accelerators are currently financing smart young hackers to build new software powered by these processes for you and your friends. Goodbye Microsoft Word, hello GitDoc! 
 
-Just what is it that is so fantastic about Git? The first thing is that it is the perfect combination of distributed and centralized services. You have your own copy of whatever you are working on, and you can make your own changes whenever you want, super fast, and then easily merge them with the changes of other people. This allows both individuality and communal effort, for a combination of total awesomeness.
+Just what is it that is so fantastic about Git? The first thing is that it is the perfect combination of distributed and centralized services. You have your own copy of whatever you are working on, and you can make your own changes whenever you want, super quickly, and then easily merge them with the changes of other people. This allows both retained individuality and communal effort, for a combination of total awesomeness.
 
-One of the great things about git is that you can easily track just about anything. In addition to code, I've tracked my personal mediation and yoga practice, language learning, computer language learning, and progress writing it all down. Git allows me to easily track things using nothing more complicated than a text editor and the command line. 
+One of the great things about git is that you can easily track just about anything. In addition to code, I've tracked my personal mediation and yoga practice, other exercise, language learning, computer language learning, and progress writing things down, including one novel and another book on collaborative finance. Git allows me to easily track things using nothing more complicated than a text editor and the command line. 
 
-The very basic usage is this:
+The very basic usage that I use is this:
 
-"git init" <- create git storage in the current directory
+step 1: "git init" <- create git storage in the current directory
 
-"git add ." <- add whatever is in the current directory to your git
+step 2: "gcm 'i am starting to track this essay'" <- add your changes to the local storage with a message 
 
-"git commit -m 'i am starting to track this essay'"
+step 3: "gpom" <- adds all the changes i made to the central storage
 
+That's really it. What's really awesome about this is that it's so simple, yet provides so much value. It gives you a way of tracking change over time in various things, and by making the update process so simple and easy, it keeps you engaged in the process. One other awesome thing is that unlike formal learning environments where you are accountable to someone else, you are now accountable to yourself. You are the master of your own learning destiny.
+
+One additional thing you can do is share your progress, or encourage others to collaborate with you. Instead of tracking things alone, you can track them together for a plethora of community building efforts that are not limited to technical people. 
+
+Take, for example, the process I used when learning French last year:
+
+[IMAGE]
+
+
+Another great thing about git (and services like Github) is that they rewards contributions. For many types of projects, you can easily see how active and how much someone has contributed over time. You don't need to have a democracy in which the people who generate the most noise win, you can have a well-orchestrated project that gives the people who contribute the most the most say over the future.
+
+The simpleness of git is deceptive. Underneath the covers is a whole new way of thinking about the world, one that prioritizes individual effort and accountability, but allows community to form around the basis of the efforts of individuals. Perhaps unsurprising, it is the contribution of the inventor of Linux, probably the most successful open source effort of all time.
+
+It's about time that this type of thinking become mainstream. Embracing this way of thinking, which I call the "open source mind," will super power both your own learning and the community around you. 
 
 
