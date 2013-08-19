@@ -1,0 +1,31 @@
+TITLE: How digital tools are transforming how we think about Chinese philosophy
+OUTLET: WW and W
+LINK: 
+
+It only occurred to me long after the fact the incredible effect had by my own processing of ancient texts by means of modern digital tools, differences that account for startling divergences between classically trained scholars and those taking advantage of newly emerging technology to challenge the way that we process texts, allowing greater depth to our own philosophical pursuits.   
+
+Generally speaking, there are a few categories of newly available tools, some which offer a mere speed increase, some of which offer radically new capabilities. Briefly, they present a larger number of texts, and the ability to rapidly find bits of information across these texts. In short, they increase the breadth of information available and speed by which specific desired pieces of information can be found. While this is also true of dictionaries, it is most true of digital texts.
+
+When it comes to answering specific questions, the advantage this has for the modern scholar of philosophy the advantages are manifold. To use a specific example, in translating particular terms from the Heshanggong 合上公 commentary of the Dao de Jing, I noticed a somewhat bizarre usage of the word qing 情. This lead me immediately to pull up in my digital copy text all references to this term, and to compare them against each other (most likely downloaded from a chinese website). I immediately noted that the word was being contrasted in certain ways that made it seem more like a 'desire' than a 'feeling' or 'affection.' The fact that it was being used in relation to certain senses made it even more clear that it was a desire that had some implied relation to sensory input (the six 六情 ).
+
+This was enough for me to translate it in an idiosyncratic way that was consonant with the rest of the text, but this was not enough for my advisor, who immediately took me to task for this idiosyncrasy. This too, however, was easily resolved. My advisor did not need to consult the entirety of the Heshanggong, all he needed to do was run a CHANT search on this same term, and ascertain that this strange usage of the word 情 had precedent. There were other contemporary usages which implied more or less the exact same thing that I had found in this unusual text (sensory input).  The problem was solved, interpretative consistency of the text was preserved, which had a consistency and logic to it that was missed by earlier translators without access to these tools (despite the magnificent efforts of Edmund Erkes). 
+
+In a classical approach to translation, you approach the text in a linear way. You translate one sentence at a time, perhaps pausing for a moment of interpretation as to possible means. In the new digital age, interpretation is not linear. Many concepts, particularly those that are difficult and distinct, are much better analyzed by approaching them in aggregate, rather than in the chapter and verse of traditional compilations.  
+
+Of course, philosophy requires not only massive amounts of reading, it requires time for contemplation of what one has read. This frequently also requires that one adjust one's reading style to the type of the text -- the mode of approach should suit the material not be decided in advance. 
+
+For instance, should we limit Confucius to the Analects? Even a cursory investigation into the thought of Confucius indicates that he would much prefer that we read (and recite!) the Odes. At our hands we have the ability to pull these thoughts into meaningful compilations. Yet no one is doing them. Our pedagogy (as noted here), remains woefully dependent on the chapter and verse of yesteryear. 
+
+To a certain degree, we can be inspired by approach of James Legge. He not only translated once, he translated the entire text all the way through several times, memorizing, immersing, and letting the flow of thought flow through him until, after many years of a life dedicated to both the theory and practice of virtue, he was confident that he understood something.  He was a scholar who understood something about the "righteousness" of which he spoke.  
+
+One hopes that the digital revolution that makes things possible is at least giving birth to a new generation of scholars who are able to think in better ways, to appreciate texts in context, and to extend that context in time and space and reveal the splendor and richness of the originals, a splendor, like gold, that can only be unearthed with the proper tools. Even in the original case, many of the unique features of the Heshanggong commentary were revealed by the fact that I can easily consult a dozen DDJ translations and all the major commentarial traditions in the classroom thanks to a nice Macbook Air, courtesy of Steve Jobs. 
+
+Would that scholars were more often toolsmiths themselves, or at least took the smithy seriously. Despite a few good digital dictionary projects (more obviously developed on the Buddhist front), the humanities seems to no longer care about developing tools. Somewhat ironically, despite obvious funding gaps, every single useful tool were developed in China, both the dictionary software, the lookup (ctext), the text download, and the text search (CHANT), even all of the component parts of my Macbook Air.  My impression when it comes to Sanskrit studies is that this same trend is true of Indian studies. The massive amounts of money floating around Silicon Valley and New York have lead to absolutely nothing when it comes to humanism. 
+
+So what is Harvard doing with their digital humanities initiative? Sadly, as far as I can tell, absolutely nothing. Scholars of the occident seem to be writing the death of the west with their own profound apathy. As far as I'm concerned, may they rest in peace sooner rather than later. 
+
+
+
+
+
+
