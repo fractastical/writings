@@ -1,0 +1,11 @@
+Computer programs are essentially sets of instructions for a computer to perform a certain tasks produced in such a way to be legible and maintainable by human beings. Although specific considerations apply in the context of a project, there are several principles that apply virtually everywhere (and also in many other fields where people construct things, like architecture).
+
+(1) Functionality- A bridge has an obvious set of requirements. An object of a certain weight must be able to consistently travel from one side of the bridge to the other. Computer programs also fulfill a certain set of requirements, which are usually derived from some problem that people are having in normal life.  
+
+(2) Beauty - According to Leonardo, beauty is a reflection of the order of the universe and reconciles the beholder to this order, including aspects which otherwise would be hidden to us. It has the function both of inspiring us and of unlocking secrets of nature. Consequently, beautiful code produces an orderly mind and keeping this mind engaged and attentive to the problem at hand.  
+
+(3) Clarity - When it comes to prose, brevity is not always good. Verbosity is not always good. However, clarity is always good. As Leonardo says, mediocre philosophers and artists lock away secrets behind symbols. The best are not afraid to engage their audience directly. Mystery, if it exists, is complementary rather than immediate. 
+
+(4) Extensiblity - For some reason, software engineers seem to be unable to write software without bugs. This 
+
+Organization is beautiful and creates a corresponding organization in the mind. 
